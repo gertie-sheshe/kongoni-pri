@@ -1,9 +1,10 @@
 import React from 'react';
+import Header from './AppBar.jsx';
 
 const App = () => (
-    <div>
-        <p>Helooooo</p>
-    </div>
+    <>
+        <Header />
+    </>
 )
 
 export default App;
